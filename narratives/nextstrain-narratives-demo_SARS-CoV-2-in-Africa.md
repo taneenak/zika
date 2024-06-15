@@ -1,6 +1,6 @@
 ---
-title: "SARS-CoV-2 circulation in Africa"
-authors: "John Huddleston"
-date: "September 29, 2021"
-dataset: https://nextstrain.org/taneenak/Zika-Narrative
+title: "Zika Virus circulation"
+authors: "Tanin Rajamand"
+date: "June 10, 2024"
+dataset: https://nextstrain.org/taneenak/Zika-Narrativezika
 ---
