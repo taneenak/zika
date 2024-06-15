@@ -1,11 +1,23 @@
 ---
-title: "Zika Narrative"
+title: "Zika Virus Phylogenetic Analysis"
 authors: "Tanin Rajamand"
+authorLinks: "mailto:tr44022@uga.edu"
 date: "June 10, 2024"
-dataset: "taneenak/Zika-Narrative"
-dataset: https://nextstrain.org/taneenak/Zika-Narrative
+dataset: "http://127.0.0.1:4000/zika"
 auspiceMainTitle: "Zika Tree"
+abstract: |
+    This narrative explores the phylogenetic analysis of Zika virus using Nextstrain. It includes slides on the tree, map views of the virus's evolution, and entropy analysis.
 ---
+
+# [Zika Virus Overview](http://127.0.0.1:4000/zika?d=tree&p=full)
+
+Explore the phylogenetic tree of Zika virus strains. This view provides insights into the evolutionary relationships among different viral samples.
+
+# [Geographic Spread](http://127.0.0.1:4000/zika?d=map&p=full)
+
+Investigate the geographic spread of Zika virus strains across different regions. This slide focuses on the distribution patterns observed in the dataset.
+
+
 
 
 
