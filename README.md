@@ -1,5 +1,5 @@
 # nextstrain-narratives-demo
 Demonstration of how to create public Nextstrain narratives
 
-View this narrative at https://nextstrain.org/community/taneenak/Zika-Narrative
+View this narrative at https://nextstrain.org/community/taneenak/zika
 /
